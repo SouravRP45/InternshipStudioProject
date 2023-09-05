@@ -8,3 +8,6 @@ Secure Payment Processing
 Order History
 User Reviews and Ratings
 
+The Shopping Website is designed to offer a user-friendly e-commerce platform for online shopping, with features such as user registration, product catalog, shopping cart management, secure payment processing, and more. By following the provided installation instructions and prerequisites, users can set up and run the website on their local or production servers.
+
+Contributors are encouraged to get involved by forking the repository and following the outlined contribution guidelines to help improve and enhance the project.
